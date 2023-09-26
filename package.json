@@ -1,0 +1,22 @@
+{
+  "name": "pruebatesting",
+  "version": "1.0.0",
+  "description": "Prueba de pagina web para testear",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Piamendez/PruebaTesting.git"
+  },
+  "author": "pia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Piamendez/PruebaTesting/issues"
+  },
+  "homepage": "https://github.com/Piamendez/PruebaTesting#readme",
+  "dependencies": {
+    "cypress": "^13.2.0"
+  }
+}
